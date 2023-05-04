@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="MIT License"
+[[mods]]
+modId="milkyou"
+version="${file.jarVersion}"
+displayName="I can milk you"
+credits="Thanks to Markiplier and Mark Hamill for being such great memes"
+authors="Captain_D1"
+displayTest="IGNORE_ALL_VERSION_VERSION"
+description='''
+This mod adds special functionality while holding a bucket and looking at a cow or drinking milk
+'''
+[[dependencies.milkyou]]
+    modId="forge"
+    mandatory=true
+    versionRange="[45,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.milkyou]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4,1.20)"
+    ordering="NONE"
+    side="BOTH"

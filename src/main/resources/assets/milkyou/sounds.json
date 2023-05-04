@@ -1,0 +1,12 @@
+{
+  "milk_you": {
+    "category": "player",
+    "subtitle": "milkyou.subtitles.milk_you",
+    "sounds": [
+      {
+        "name": "milkyou:milk_you",
+        "stream": false
+      }
+    ]
+  }
+}
