@@ -7,7 +7,7 @@ version="${file.jarVersion}"
 displayName="I can milk you"
 credits="Thanks to Markiplier and Mark Hamill for being such great memes"
 authors="Captain_D1"
-displayTest="IGNORE_ALL_VERSION_VERSION"
+displayTest="IGNORE_ALL_VERSION"
 description='''
 This mod adds special functionality while holding a bucket and looking at a cow or drinking milk
 '''
